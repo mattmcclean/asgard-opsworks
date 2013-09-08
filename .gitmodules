@@ -16,3 +16,6 @@
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/cookbooks/openssl.git
+[submodule "tomcat"]
+	path = tomcat
+	url = https://github.com/organicveggie/chef-tomcat.git
