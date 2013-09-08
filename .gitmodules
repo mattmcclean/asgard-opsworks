@@ -22,3 +22,6 @@
 [submodule "ark"]
 	path = ark
 	url = https://github.com/opscode-cookbooks/ark.git
+[submodule "logrotate"]
+	path = logrotate
+	url = https://github.com/opscode-cookbooks/logrotate.git
