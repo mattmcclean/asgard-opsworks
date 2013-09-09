@@ -19,3 +19,9 @@
 [submodule "logrotate"]
 	path = logrotate
 	url = https://github.com/opscode-cookbooks/logrotate.git
+[submodule "asgard"]
+	path = asgard
+	url = https://github.com/mattmcclean/chef-asgard.git
+[submodule "tomcat"]
+	path = tomcat
+	url = https://github.com/opscode-cookbooks/tomcat.git
