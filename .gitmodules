@@ -1,6 +1,3 @@
-[submodule "asgard"]
-	path = asgard
-	url = https://github.com/StudyBlue/chef-asgard.git
 [submodule "apache2"]
 	path = apache2
 	url = https://github.com/opscode-cookbooks/apache2.git
